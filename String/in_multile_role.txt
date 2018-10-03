@@ -1,0 +1,3 @@
+The in keyword can also be used to check to see if one  string is in other string.
+
+The in statement is a logical expression that returns true or false and can be used as a if statement.

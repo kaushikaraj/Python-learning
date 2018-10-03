@@ -1,0 +1,2 @@
+capitalize()-->starts with capital first digit
+lower()--converts to lower case
